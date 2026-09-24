@@ -1,0 +1,1 @@
+print("Extracting data from a pipeline")
