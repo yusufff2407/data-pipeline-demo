@@ -1,1 +1,1 @@
-print("Extracting data from a pipeline")
+print("Source: PostgreSQL Database")
